@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.f2d9b8d6.css",
-    "main.js": "/static/js/main.4a841edd.js",
+    "main.css": "/static/css/main.bce77497.css",
+    "main.js": "/static/js/main.271a4940.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/home-bg.jpg": "/static/media/home-bg.5af367643d024da9956c.jpg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.d572956294330cc56e47.jpg",
     "static/media/avatar.png": "/static/media/avatar.e1747b00189eae6ded77.png",
     "static/media/about.svg": "/static/media/about.e290fac5b740fdeb0a6e2dfe00b429ce.svg",
     "static/media/home-main.webp": "/static/media/home-main.c1c21d4cc5336a05fcae.webp",
     "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/CV AIT OUFELLA Jugurtha.pdf": "/static/media/CV AIT OUFELLA Jugurtha.da4edf6ded152e26951c.pdf",
+    "static/media/CV AIT OUFELLA Jugurtha.pdf": "/static/media/CV AIT OUFELLA Jugurtha.39a6485d2353b9e1fe98.pdf",
     "static/media/pre.svg": "/static/media/pre.795efcdf9be173321e4c.svg",
     "index.html": "/index.html",
-    "main.f2d9b8d6.css.map": "/static/css/main.f2d9b8d6.css.map",
-    "main.4a841edd.js.map": "/static/js/main.4a841edd.js.map",
+    "main.bce77497.css.map": "/static/css/main.bce77497.css.map",
+    "main.271a4940.js.map": "/static/js/main.271a4940.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2d9b8d6.css",
-    "static/js/main.4a841edd.js"
+    "static/css/main.bce77497.css",
+    "static/js/main.271a4940.js"
   ]
 }
